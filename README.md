@@ -2,7 +2,7 @@
 
 Kairos's laws-and-authority repository: where decisions are inspected, not where they are made.
 
-**Status:** started 2026-11-17. Named by Zach in DEC-251 (relay-kit-private #147), which ratified the Convention (named Docket). Private for now.
+**Status:** started 2026-11-17. Named by Zach in DEC-251 (relay-kit-private #147), which ratified the Convention (named Docket). Being prepared for public release (MIT and CLA added; Zach changes the visibility).
 
 ## What it is for
 
@@ -29,3 +29,7 @@ Kairos's laws-and-authority repository: where decisions are inspected, not where
 > "An adopted decision remains citable as 'adopted, contested by CH-x', with its open challenge visible. A challenge alone changes no effective standing. Suspending another actor requires an existing scoped grant or a separate owner ruling naming scope and expiry."
 
 Consequential amendments get a non-author read-back, which reports source authenticity, interpretation and scope separately.
+
+## License
+
+MIT (see [LICENSE](LICENSE)). Contributions are under the [CLA](CLA.md).
