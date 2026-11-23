@@ -24,6 +24,8 @@ Kairos's laws-and-authority repository: where decisions are inspected, not where
 2. **The DEC compatibility shadow** (HO-RK-20261117-YDFR): references resolved to historical bytes and effective standing.
 3. **A conflict report:** pairs of decisions whose scopes overlap and whose texts disagree.
 
+See [INTAKE.md](INTAKE.md) for how to report.
+
 ## Clauses this repo carries (DEC-251)
 
 > "An adopted decision remains citable as 'adopted, contested by CH-x', with its open challenge visible. A challenge alone changes no effective standing. Suspending another actor requires an existing scoped grant or a separate owner ruling naming scope and expiry."
